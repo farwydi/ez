@@ -2,6 +2,20 @@
 
 
 
+# [1.0.0](https://github.com/farwydi/ez/compare/0.0.1...1.0.0) (2019-11-14)
+
+
+### Features
+
+* **core:** modify value for f1 ([9b1b31b](https://github.com/farwydi/ez/commit/9b1b31b4ab0c7fa99b592756fec70588e3172527))
+
+
+### BREAKING CHANGES
+
+* **core:** Update f1 up to 345343.
+
+
+
 ## [0.0.1](https://github.com/farwydi/ez/compare/67c544999657b3526ad4c3ee7038214b1b621c96...0.0.1) (2019-11-14)
 
 
