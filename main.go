@@ -4,4 +4,5 @@ func main() {
     var f1 = 2
 
     _ = f1
+    _ = f2
 }
